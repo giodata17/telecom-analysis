@@ -13,7 +13,7 @@ El dataset `ConnectaTel' sirve para analizar el negocio usando los 3 datasets (c
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/drive/1UgSUFqZ2DKe4xuwDYVf5I-OBqqGjlDPd?usp=sharing))](URL_DEL_NOTEBOOK_EN_GITHUB)
+[![Open In Colab](https://colab.research.google.com/drive/1UgSUFqZ2DKe4xuwDYVf5I-OBqqGjlDPd?usp=sharing))](URL_DEL_NOTEBOOK_EN_GITHUB)
 
 O:
 
