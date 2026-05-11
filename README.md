@@ -1,8 +1,8 @@
-# EverPeak Retail Analysis – Sprint 6
+# Telecom Analysis – Sprint 7
 
-Este repositorio contiene el análisis realizado durante el Sprint 6 del caso EverPeak–SilverBasket.
+Este repositorio contiene el análisis realizado durante el Sprint 7 del caso ConnectaTel Analysis
 
-El dataset `everpeak_retail` incluye 2,000 órdenes de clientes con valores faltantes, sentinels, outliers y problemas de calidad diseñados para simular datos reales del retail. :contentReference[oaicite:2]{index=2}
+El dataset `ConnectaTel' sirve para analizar el negocio usando los 3 datasets (clientes, uso_real y planes) para que ConnectaTel entienda cómo se comportan sus usuarios según edad, volumen de llamadas/mensajes y nivel de consumo. El entregable será un análisis completo (distribuciones, outliers, segmentación y oportunidades comerciales) acompañado de un notebook limpio y reproducible.
 
 ## 📂 Contenido del repositorio
 
@@ -28,7 +28,15 @@ O:
 
 ## 🧠 Objetivo del análisis
 
-- Identificar problemas de calidad de datos
-- Construir un pipeline de limpieza reproducible
-- Analizar comportamientos, distribuciones y outliers
-- Generar insights para el equipo de Estrategia e Integración de EverPeak
+-Integrar y limpiar bases de datos provenientes de tres fuentes distintas.
+
+-Aplicar técnicas de validación, estandarización de tipos de datos y detección de valores inconsistentes.
+
+-Construir un perfil estadístico del uso (llamadas y mensajes) por cliente y por segmentos demográficos.
+
+-Detectar outliers y comportamientos atípicos mediante métodos estadísticos y visuales
+
+-Crear segmentaciones de clientes basadas en edad, país y comportamiento de uso.
+
+-Visualizar diferencias entre segmentos y extraer insights comerciales relevantes.
+
