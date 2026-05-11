@@ -11,14 +11,7 @@ El dataset `ConnectaTel' sirve para analizar el negocio usando los 3 datasets (c
 
 ## ▶ Cómo abrir el notebook en Google Colab
 
-Haz clic en el siguiente botón:
-
-[![Open In Colab](https://colab.research.google.com/drive/1UgSUFqZ2DKe4xuwDYVf5I-OBqqGjlDPd?usp=sharing))](URL_DEL_NOTEBOOK_EN_GITHUB)
-
-O:
-
-1. Abre el archivo `.ipynb` en GitHub
-2. Haz clic en **Open in Colab**
+https://colab.research.google.com/drive/1UgSUFqZ2DKe4xuwDYVf5I-OBqqGjlDPd?usp=sharing
 
 ## 📘 Cómo reproducir el análisis
 
